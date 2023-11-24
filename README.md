@@ -18,7 +18,7 @@ Usage of awswho:
 
 ## Installation
 
-* macOS: `brew install jftuga/tap/awsho`
+* macOS: `breq update; brew install jftuga/tap/awsho`
 * Binaries for Linux, macOS and Windows are provided in the [releases](releases) section.
 
 ## Compilation
